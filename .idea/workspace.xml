@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f75d5f9-29b2-4e25-ae51-6755251499b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Controller/ApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Controller/CommonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Controller/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/template/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Controller/ApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Controller/CommonController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Controller/hello$App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Controller/hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/BasicProject.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/classes/META-INF/BasicProject.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/classes/template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test-classes/classes/META-INF/BasicProject.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test-classes/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test-classes/test-classes/classes/META-INF/BasicProject.kotlin_module" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="F:\develop_kit\Git\bin\git.exe" />
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Zhang" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\GitProject\BasicProject\BasicProject\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Program Files\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZFcrIpfJiMXNcBxsUgxsUJfyt3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\GitProject\BasicProject\BasicProject" />
+      <recent name="F:\GitProject\BasicProject\BasicProject\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GitProject\BasicProject\BasicProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ApplicationContext">
+    <configuration name="ApplicationContext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ApplicationContext" />
+      <module name="BasicProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationContext" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="BasicProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="Controller.ApplicationContext" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ApplicationContext" />
+        <item itemvalue="Application.ApplicationContext" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f75d5f9-29b2-4e25-ae51-6755251499b2" name="Default Changelist" comment="" />
+      <created>1584438479297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584438479297</updated>
+      <workItem from="1584438480680" duration="2553000" />
+      <workItem from="1584441435201" duration="1199000" />
+      <workItem from="1584442735757" duration="519000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="初始框架搭建中。。。" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始框架搭建中。。。" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1584441733648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1584441733648" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584441928620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584441928620" />
+    <state x="739" y="379" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584442018146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="379" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1584442018146" />
+    <state x="560" y="114" key="CommitChangelistDialog2" timestamp="1584442810531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584442810531" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1584443416791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584443416791" />
+    <state x="781" y="433" width="382" height="173" key="Github.CreateGistDialog" timestamp="1584442839106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="781" y="433" width="382" height="173" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584442839106" />
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom" timestamp="1584442634793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584442634793" />
+    <state width="1921" height="289" key="GridCell.Tab.0.center" timestamp="1584442634793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584442634793" />
+    <state width="1921" height="289" key="GridCell.Tab.0.left" timestamp="1584442634793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584442634793" />
+    <state width="1921" height="289" key="GridCell.Tab.0.right" timestamp="1584442634793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584442634793" />
+    <state width="1921" height="289" key="GridCell.Tab.1.bottom" timestamp="1584442634793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584442634793" />
+    <state width="1921" height="289" key="GridCell.Tab.1.center" timestamp="1584442634793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584442634793" />
+    <state width="1921" height="289" key="GridCell.Tab.1.left" timestamp="1584442634793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584442634793" />
+    <state width="1921" height="289" key="GridCell.Tab.1.right" timestamp="1584442634793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584442634793" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1584443321274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584443321274" />
+  </component>
+</project>
